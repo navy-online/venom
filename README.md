@@ -16,7 +16,7 @@ However, during the Venom hackathon, we decided to turn our project as ready as 
 3) Pitch - https://docs.google.com/presentation/d/1UxntuujawPg0awNYnO5_7WPJVvxzWzZtG1tydpZl440/edit#slide=id.g242ec781acd_0_0
 
 4) Social media:
-https://twitter.com/_NavyOnline_
+https://twitter.com/_NavyOnline_ 
 https://t.me/navy_online_game
 https://mastodon.social/@_Navyonline_
 https://zealy.io/c/navymetaverse/questboard
@@ -47,6 +47,6 @@ https://github.com/navy-online/NavyOnline/tree/venom-hackathon/server/navy/apps/
 # All repos:
 
 https://github.com/navy-online/NavyOnline (switch to venom-hack branch. it contains both game client and server)
-https://github.com/navy-online/navy-online-contracts
+https://github.com/navy-online/navy-online-contracts (project is separated by cronos and venom, each has contracts, tests, deploymets scripts and samples (venom has both client and server sample))
 https://github.com/navy-online/navy-online-marketplace
 https://github.com/navy-online/navy-online-landing
