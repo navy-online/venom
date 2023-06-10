@@ -16,10 +16,10 @@ However, during the Venom hackathon, we decided to turn our project as ready as 
 3) Pitch - https://docs.google.com/presentation/d/1UxntuujawPg0awNYnO5_7WPJVvxzWzZtG1tydpZl440/edit#slide=id.g242ec781acd_0_0
 
 4) Social media:
-4.1) https://twitter.com/_NavyOnline_
-4.2) https://t.me/navy_online_game
-4.3) https://mastodon.social/@_Navyonline_
-4.4) https://zealy.io/c/navymetaverse/questboard
+https://twitter.com/_NavyOnline_
+https://t.me/navy_online_game
+https://mastodon.social/@_Navyonline_
+https://zealy.io/c/navymetaverse/questboard
 
 5) Crosschain marketplace with minting functionality -
 https://marketplace.navy-metaverse.online
