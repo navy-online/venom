@@ -7,6 +7,18 @@ On this page we want to give a brief information about the work done during the 
 Firstly, our project has already won the hackathon from Cronos, where we took first place. At that time, we focused on the basic gameplay and the overall vision of the project, you can get acquainted with the result and the gameplay record by following the link:
 However, during the Venom hackathon, we decided to turn our project as ready as possible to launch and attract investment, so we concentrated on creating a community, promotional materials, and also created our own marketplace, which is the main development of the hackathon. Unfortunately, we did not have time to add venom to our game client, and we will not demonstrate it =(
 
+# Project state after Cronos hack and before Venom
+
+All we did is just a huge backend and frontend refactoring without any new features.
+Basically backend was refactored into several microservices, current implementation could handle on a single core a minimum of 300 players and bots ships that constanlty shoots into each other.
+Single gameplay instance is using simple sharding pattern in order to simplify matchmaking and reduce network throughput.
+Second and most important goal of mircoservices pattern is a Web3 related tasks queue system. Because of nature of NodeJs to be singlethreaded it was a huge problem to wait till some transaction is completed.
+Now we are using Bull queue based on Redis, and we can add any number of web3-service-workers as current load requires.
+
+Finally for Venom hackathon we've implemented a new microservice, marketplace-serivce, which provides rest api for our marketplace app.
+Web3 and Web3-worker services were refactored in order to support clear abstraction of EVM or Ton chains.
+Contracts repositiry was also very refactored, we did clear examples for both Venom and Cronos.
+
 # Briefly about what we have done in a month:
 
 1) New landing page - https://navy-metaverse.online
