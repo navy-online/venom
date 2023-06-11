@@ -21,13 +21,13 @@ Contracts repositiry was also very refactored, we did clear examples for both Ve
 
 # Briefly about what we have done in a month:
 
-1) New landing page - https://navy-metaverse.online
+1) Brand wew landing page - https://navy-metaverse.online
 
-2) White paper - https://navy-metaverse-online.gitbook.io/navy.online-whitepaper/intro/about-navy-metaverse.online
+2) White paper improvements - https://navy-metaverse-online.gitbook.io/navy.online-whitepaper/intro/about-navy-metaverse.online
 
-3) Pitch - https://docs.google.com/presentation/d/1UxntuujawPg0awNYnO5_7WPJVvxzWzZtG1tydpZl440/edit#slide=id.g242ec781acd_0_0
+3) Pitch introduced - https://docs.google.com/presentation/d/1UxntuujawPg0awNYnO5_7WPJVvxzWzZtG1tydpZl440/edit#slide=id.g242ec781acd_0_0
 
-4) Social media:
+4) Social media introduced:
 https://twitter.com/_NavyOnline_ 
 https://t.me/navy_online_game
 https://mastodon.social/@_Navyonline_
